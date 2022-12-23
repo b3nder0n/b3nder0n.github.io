@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://b3nder0n.github.io/sitemap.xml
