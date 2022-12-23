@@ -9,6 +9,7 @@
       <link>https://b3nder0n.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://b3nder0n.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Agent T</title>
       <link>https://b3nder0n.github.io/writeups/tryhackme/agent-t/</link>
@@ -19,14 +20,26 @@
     </item>
     
     <item>
+      <title>PERSONALIZAR ENTORNO LINUX</title>
+      <link>https://b3nder0n.github.io/linux/personalizar_entorno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://b3nder0n.github.io/linux/personalizar_entorno/</guid>
+      <description>¿Quieres tener un entorno como este?
+Bien, no es tarea fácil, hay que ponerle ganas y no rendirse. En este post te enseñaré como paso a paso y si lo lees podras salir de aqui con capacidad suficiente como para crear el tuyo propio.
+BSPWM POLYBAR </description>
+    </item>
+    
+    <item>
       <title>WHOAMI, ¿QUIEN SOY?</title>
       <link>https://b3nder0n.github.io/whoami/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://b3nder0n.github.io/whoami/</guid>
-      <description>Estudios Primaria (2010-2015) Cursé de primero a sexto en Reus, Tarragona.
+      <description>Mi nombre es Aarón y tengo 17 años, me mola mucho la ciberseguridad y el fútbol.
+Estudios Primaria (2010-2015) Cursé de primero a sexto en Reus, Tarragona.
 ESO (2015-2020) Cursé primero y segundo de la ESO (a medias) en Reus, Tarragona. Pero nos mudamos a Cunit, Tarragona y acabé la ESO allí, segundo, tercero y cuarto de la ESO.
-SMX </description>
+SMX Tengo el primer año del ciclo medio de sistemas microinformaticos y redes (SMX) y actualmente estoy cursando el segundo año.</description>
     </item>
     
   </channel>
