@@ -10,6 +10,8 @@
     <loc>https://b3nder0n.github.io/writeups/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>https://b3nder0n.github.io/writeups/tryhackme/agent-t/</loc>
+  </url><url>
     <loc>https://b3nder0n.github.io/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/categories/</loc>
@@ -21,7 +23,5 @@
     <loc>https://b3nder0n.github.io/writeups/tryhackme/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/whoami/</loc>
-  </url><url>
-    <loc>https://b3nder0n.github.io/writeups/tryhackme/agent-t/</loc>
   </url>
 </urlset>
