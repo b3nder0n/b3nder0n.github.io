@@ -11,15 +11,6 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://b3nder0n.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Agent T</title>
-      <link>https://b3nder0n.github.io/writeups/tryhackme/agent-t/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://b3nder0n.github.io/writeups/tryhackme/agent-t/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>PERSONALIZAR ENTORNO LINUX</title>
       <link>https://b3nder0n.github.io/linux/personalizar_entorno/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -41,6 +32,19 @@ sudo apt update &amp;amp;&amp;amp; sudo apt install build-essential git vim xcb 
 Estudios Primaria (2010-2015) Tengo el titulo de primaria.
 ESO (2015-2020) Tengo el titulo de la ESO con una media de 7.
 SMX Tengo el primer año del ciclo medio de sistemas microinformaticos y redes (SMX) y actualmente estoy cursando el segundo año.</description>
+    </item>
+    
+    <item>
+      <title>WriteUp Agent T</title>
+      <link>https://b3nder0n.github.io/writeups/tryhackme/agent-t/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://b3nder0n.github.io/writeups/tryhackme/agent-t/</guid>
+      <description>En este writeup trabajaremos sobre la máquina Agent T, es una maquina facil y acontinuación veremos como rsolverla.
+IPs Máquina atacante =&amp;gt; 10.8.46.8
+Máquina victima =&amp;gt; 10.10.255.45
+RECONOCIMIENTO El primer paso es ver si tenemos conexión con la máquina, así que haremos un ping a la máquina victima.
+-&amp;gt; ping -c 1 10.10.255.45 PING 10.10.255.45 (10.10.255.45) 56(84) bytes of data. 64 bytes from 10.10.255.45: icmp_seq=1 ttl=63 time=59.6 ms --- 10.10.255.45 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms rtt min/avg/max/mdev = 59.</description>
     </item>
     
   </channel>
