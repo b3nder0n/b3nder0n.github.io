@@ -16,7 +16,7 @@
       
       <guid>https://b3nder0n.github.io/linux/personalizar_entorno/</guid>
       <description>¿Quieres tener un entorno como este?
-Bien, no es tarea fácil, hay que ponerle ganas y no rendirse. En este post te enseñaré como paso a paso y si lo lees podras salir de aqui con capacidad suficiente como para crear el tuyo propio.
+b3nder0n d3b0o Bien, no es tarea fácil, hay que ponerle ganas y no rendirse. En este post te enseñaré como paso a paso y si lo lees podras salir de aqui con capacidad suficiente como para crear el tuyo propio.
 PAQUETES NECESARIOS Empezaremos haciendo un update e instalando los paquetes necesarios.
 sudo apt update &amp;amp;&amp;amp; sudo apt install build-essential git vim xcb libxcb-util0-dev libxcb-ewmh-dev libxcb-randr0-dev libxcb-icccm4-dev libxcb-keysyms1-dev libxcb-xinerama0-dev libasound2-dev libxcb-xtest0-dev libxcb-shape0-dev BSPWM &amp;amp; SXHKD Bspwm es un gestor de ventanas, personalmente me gusta mucho porque es de tipo mosaico, es decir que las ventanas se abren ocupando toda la pantalla y se van redimensionando segun la cantidad de ventanas.</description>
     </item>
