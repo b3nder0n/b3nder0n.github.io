@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Linux on B3nder0n</title>
+    <link>https://b3nder0n.github.io/tags/linux/</link>
+    <description>Recent content in Linux on B3nder0n</description>
+    <image>
+      <url>https://b3nder0n.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://b3nder0n.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://b3nder0n.github.io/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Agent T</title>
+      <link>https://b3nder0n.github.io/writeups/agentt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://b3nder0n.github.io/writeups/agentt/</guid>
+      <description>En este writeup trabajaremos sobre la máquina Agent T, es una maquina facil y acontinuación veremos como resolverla.
+IPs Máquina atacante =&amp;gt; 10.8.46.8
+Máquina victima =&amp;gt; 10.10.255.45
+RECONOCIMIENTO El primer paso es ver si tenemos conexión con la máquina, así que haremos un ping a la máquina victima.
+➜ ping -c 1 10.10.255.45 PING 10.10.255.45 (10.10.255.45) 56(84) bytes of data. 64 bytes from 10.10.255.45: icmp_seq=1 ttl=63 time=59.6 ms --- 10.10.255.45 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms rtt min/avg/max/mdev = 59.</description>
+    </item>
+    
+    <item>
+      <title>PERSONALIZAR ENTORNO LINUX</title>
+      <link>https://b3nder0n.github.io/linux/personalizar_entorno/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://b3nder0n.github.io/linux/personalizar_entorno/</guid>
+      <description>¿Quieres tener un entorno como este?
+b3nder0n d3b0o Bien, no es tarea fácil, hay que ponerle ganas y no rendirse. En este post te enseñaré como paso a paso y si lo lees podras salir de aqui con capacidad suficiente como para crear el tuyo propio.
+PAQUETES NECESARIOS Empezaremos haciendo un update e instalando los paquetes necesarios.
+sudo apt update &amp;amp;&amp;amp; sudo apt install build-essential git vim xcb libxcb-util0-dev libxcb-ewmh-dev libxcb-randr0-dev libxcb-icccm4-dev libxcb-keysyms1-dev libxcb-xinerama0-dev libasound2-dev libxcb-xtest0-dev libxcb-shape0-dev rofi BSPWM &amp;amp; SXHKD Bspwm es un gestor de ventanas, personalmente me gusta mucho porque es de tipo mosaico, es decir que las ventanas se abren ocupando toda la pantalla y se van redimensionando segun la cantidad de ventanas.</description>
+    </item>
+    
+  </channel>
+</rss>

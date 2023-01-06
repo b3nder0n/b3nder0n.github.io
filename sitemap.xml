@@ -5,24 +5,44 @@
     <loc>https://b3nder0n.github.io/linux/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://b3nder0n.github.io/search/</loc>
-  </url><url>
     <loc>https://b3nder0n.github.io/writeups/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://b3nder0n.github.io/writeups/agent-t/</loc>
+    <loc>https://b3nder0n.github.io/writeups/agentt/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/</loc>
   </url><url>
+    <loc>https://b3nder0n.github.io/tags/bspwm/</loc>
+  </url><url>
     <loc>https://b3nder0n.github.io/categories/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/categories/ctf/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/tags/f%C3%A1cil/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/tags/hacking/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/tags/linux/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/writeups/neighbour/</loc>
   </url><url>
+    <loc>https://b3nder0n.github.io/tags/nmap/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/categories/personalizaci%C3%B3n/</loc>
+  </url><url>
     <loc>https://b3nder0n.github.io/linux/personalizar_entorno/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/tags/php/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/tags/polybar/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/writeups/rootme/</loc>
   </url><url>
+    <loc>https://b3nder0n.github.io/search/</loc>
+  </url><url>
     <loc>https://b3nder0n.github.io/tags/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/tags/wfuzz/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/whoami/</loc>
   </url>
