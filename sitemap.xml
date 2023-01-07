@@ -8,7 +8,7 @@
     <loc>https://b3nder0n.github.io/writeups/</loc>
     <priority>0</priority>
   </url><url>
-    <loc>https://b3nder0n.github.io/writeups/agentt/</loc>
+    <loc>https://b3nder0n.github.io/writeups/tryhackme/agentt/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/</loc>
   </url><url>
@@ -24,7 +24,7 @@
   </url><url>
     <loc>https://b3nder0n.github.io/tags/linux/</loc>
   </url><url>
-    <loc>https://b3nder0n.github.io/writeups/neighbour/</loc>
+    <loc>https://b3nder0n.github.io/writeups/tryhackme/neighbour/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/tags/nmap/</loc>
   </url><url>
@@ -36,11 +36,13 @@
   </url><url>
     <loc>https://b3nder0n.github.io/tags/polybar/</loc>
   </url><url>
-    <loc>https://b3nder0n.github.io/writeups/rootme/</loc>
+    <loc>https://b3nder0n.github.io/writeups/tryhackme/rootme/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/search/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/tags/</loc>
+  </url><url>
+    <loc>https://b3nder0n.github.io/writeups/tryhackme/</loc>
   </url><url>
     <loc>https://b3nder0n.github.io/tags/wfuzz/</loc>
   </url><url>

@@ -11,10 +11,10 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://b3nder0n.github.io/tags/nmap/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Agent T</title>
-      <link>https://b3nder0n.github.io/writeups/agentt/</link>
+      <link>https://b3nder0n.github.io/writeups/tryhackme/agentt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://b3nder0n.github.io/writeups/agentt/</guid>
+      <guid>https://b3nder0n.github.io/writeups/tryhackme/agentt/</guid>
       <description>En este writeup trabajaremos sobre la máquina Agent T, es una maquina facil y acontinuación veremos como resolverla.
 IPs Máquina atacante =&amp;gt; 10.8.46.8
 Máquina victima =&amp;gt; 10.10.255.45
