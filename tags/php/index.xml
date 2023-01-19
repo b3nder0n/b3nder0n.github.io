@@ -15,11 +15,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://b3nder0n.github.io/writeups/tryhackme/agentt/</guid>
-      <description>En este writeup trabajaremos sobre la máquina Agent T, es una maquina facil y acontinuación veremos como resolverla.
+      <description>En este writeup trabajaremos sobre la máquina Agent T, es una máquina fácil y a continuación veremos como resolverla.
 IPs Máquina atacante =&amp;gt; 10.8.46.8
-Máquina victima =&amp;gt; 10.10.255.45
-RECONOCIMIENTO El primer paso es ver si tenemos conexión con la máquina, así que haremos un ping a la máquina victima.
-➜ ping -c 1 10.10.255.45 PING 10.10.255.45 (10.10.255.45) 56(84) bytes of data. 64 bytes from 10.10.255.45: icmp_seq=1 ttl=63 time=59.6 ms --- 10.10.255.45 ping statistics --- 1 packets transmitted, 1 received, 0% packet loss, time 0ms rtt min/avg/max/mdev = 59.</description>
+Máquina víctima =&amp;gt; 10.10.255.45
+RECONOCIMIENTO El primer paso es ver si tenemos conexión con la máquina, así que haremos un ping a la máquina víctima.
+➜ ping -c 1 10.10.255.45 PING 10.10.255.45 (10.10.255.45) 56(84) bytes of data. 64 bytes from 10.10.255.45: icmp_seq=1 ttl=63 time=59.6 ms --- 10.</description>
     </item>
     
   </channel>
