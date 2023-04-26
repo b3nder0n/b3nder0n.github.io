@@ -20,7 +20,7 @@ sudo apt update && sudo apt install build-essential git vim xcb libxcb-util0-dev
 </span></span><span class=line><span class=cl>make
 </span></span><span class=line><span class=cl>sudo make install
 </span></span><span class=line><span class=cl>sudo apt install bspwm
-</span></span></code></pre></div><p>Sxhkd se utiliza para configurar los atajos del teclado que nos servirán para abrir procesos o ejecutar programas.</p><p>Nuevamente, para instalarlo tendremos que ir al directorio &ldquo;Descargas&rdquo;. I ejecutar los siguientes comandos.</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nb>cd</span> /home/tu_usuario/Descargas/
+</span></span></code></pre></div><p>Sxhkd se utiliza para configurar los atajos del teclado que nos servirán para abrir procesos o ejecutar programas.</p><p>Nuevamente, para instalarlo tendremos que ir al directorio &ldquo;Descargas&rdquo;. Y ejecutar los siguientes comandos.</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=nb>cd</span> /home/tu_usuario/Descargas/
 </span></span><span class=line><span class=cl>git clone https://github.com/baskerville/sxhkd.git
 </span></span><span class=line><span class=cl><span class=nb>cd</span> sxhkd
 </span></span><span class=line><span class=cl>make
@@ -32,7 +32,7 @@ sudo apt update && sudo apt install build-essential git vim xcb libxcb-util0-dev
 </span></span><span class=line><span class=cl>chmod +x ~/.config/bspwm/bspwmrc
 </span></span><span class=line><span class=cl>cp esxamples/sxhkdrc ~/.config/sxhkd
 </span></span></code></pre></div><p>Ahora abriremos el sxhkd y le configuraremos los atajos. (Debajo del documento explico todos).</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl>nano ~/.config/sxhkd/sxhkdrc
-</span></span></code></pre></div><p>Borramos todo el contenido i pegamos lo siguiente:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=c1># wm independent hotkeys</span>
+</span></span></code></pre></div><p>Borramos todo el contenido y pegamos lo siguiente:</p><div class=highlight><pre tabindex=0 class=chroma><code class=language-bash data-lang=bash><span class=line><span class=cl><span class=c1># wm independent hotkeys</span>
 </span></span><span class=line><span class=cl><span class=c1>#</span>
 </span></span><span class=line><span class=cl>
 </span></span><span class=line><span class=cl><span class=c1># terminal emulator</span>
